@@ -6,7 +6,8 @@
 ## 참고 사이트
 - 스파크란
   - https://wikidocs.net/26513
-- 
+- Resilient Distributed Dataset (RDD)
+  - https://bomwo.cc/posts/spark-rdd/
 ### <br/><br/><br/>
 
 ### 스파크는 하둡과는 다르게 in-memory process 로 하여 속도가 빠르다.
